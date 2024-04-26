@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <!-- Document Title -->
-    <title>OZANA</title>
+    <title>OZANA | Agua purificada y ozonizada</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/ico" href="favicon.ico">
@@ -61,7 +61,7 @@
                         <!-- Logo -->
                         <div class="logo">
                             <a href="index.html">
-                                <img src="assets/img/logo-ozanav5.png" data-rjs="2" alt="ozana">
+                                <img src="assets/img/logo-ozanav5.png" data-rjs="2" alt="ozana" class="logo-img">
                             </a>
                         </div>
                         <!-- End of Logo -->

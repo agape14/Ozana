@@ -12,7 +12,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Disfrute del agua con el mejor sabor</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;">Tenemos el mejor <br> agua mineral.</h1>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;">Tenemos el mejor <br> agua de mesa</h1>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -25,7 +25,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Disfrute del agua con el mejor sabor</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;">Tenemos el mejor <br> agua mineral.</h1>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;">Tenemos el mejor <br> agua de mesa</h1>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -38,7 +38,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Disfrute del agua con el mejor sabor</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;">Tenemos el mejor <br> agua mineral.</h1>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;">Tenemos el mejor <br> agua de mesa</h1>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -56,9 +56,9 @@
                 <div class="col-12">
                     <!-- section title -->
                     <div class="section-title text-center type3">
-                        <span class="schoolbell">Wellcome To Mineralo</span>
-                        <h2>Most Trusted Company</h2>
-                        <p>Mineralo Water Industries is pleased to introduce itself as a new entrant in the market for supply of revitalizing, refreshing, pure clean & healthy mineralized water</p>
+                        <span class="schoolbell">Bienvenido a Ozana</span>
+                        <h2>Empresa más confiable</h2>
+                        <p>Ozana se enorgullece de unirse al mercado como un nuevo proveedor de agua de mesa: una opción revitalizante, refrescante, pura, limpia y saludable en el panorama empresarial del suministro de agua.</p>
                     </div>
                     <!-- End of section title -->
                 </div>
@@ -68,9 +68,9 @@
                     <!-- single feature inner -->
                     <div class="single-feature-inner text-center">
                         <div class="feature-icon"><img src="assets/img/icons/water-bottle.svg" class="svg" alt=""></div>
-                        <h4>Soft Drinking Water</h4>
+                        <h4>Agua potable suave</h4>
                         <p>Sed quia magni eos qui ratione volup tatem.</p>
-                        <a href="#"><i class="fa fa-arrow-circle-o-right"></i>More</a>
+                        <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                     <!-- End of single feature inner -->
                 </div>
@@ -79,9 +79,9 @@
                     <!-- single feature inner -->
                     <div class="single-feature-inner text-center">
                         <div class="feature-icon"><img src="assets/img/icons/glass-of-water.svg" class="svg" alt=""></div>
-                        <h4>Cholorine Free Water</h4>
+                        <h4>Agua sin cloro<br> &nbsp;</h4>
                         <p>Sed quia magni eos qui ratione volup tatem.</p>
-                        <a href="#"><i class="fa fa-arrow-circle-o-right"></i>More</a>
+                        <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                     <!-- End of single feature inner -->
                 </div>
@@ -90,9 +90,9 @@
                     <!-- single feature inner -->
                     <div class="single-feature-inner text-center">
                         <div class="feature-icon"><img src="assets/img/icons/laboratory(1).svg" class="svg" alt=""></div>
-                        <h4>Pure Mineralized Water</h4>
+                        <h4>agua de mesa pura</h4>
                         <p>Sed quia magni eos qui ratione volup tatem.</p>
-                        <a href="#"><i class="fa fa-arrow-circle-o-right"></i>More</a>
+                        <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                     <!-- End of single feature inner -->
                 </div>
@@ -101,9 +101,9 @@
                     <!-- single feature inner -->
                     <div class="single-feature-inner text-center">
                         <div class="feature-icon"><img src="assets/img/icons/laboratory.svg" class="svg" alt=""></div>
-                        <h4>Total Home Solution</h4>
+                        <h4>Solución total para el hogar</h4>
                         <p>Sed quia magni eos qui ratione volup tatem.</p>
-                        <a href="#"><i class="fa fa-arrow-circle-o-right"></i>More</a>
+                        <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                     <!-- End of single feature inner -->
                 </div>
@@ -119,8 +119,8 @@
                 <div class="col-12">
                     <!-- section title -->
                     <div class="section-title text-center">
-                        <span class="schoolbell">Watch Our Video</span>
-                        <h2>Why Bottled Water?</h2>
+                        <span class="schoolbell">Mira nuestro vídeo</span>
+                        <h2>¿Por qué nuestra agua de mesa?</h2>
                     </div>
                     <!-- End of section title -->
                 </div>
