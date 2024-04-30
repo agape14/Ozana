@@ -290,7 +290,7 @@ body {
     font-weight: 700;
     text-transform: capitalize;
     overflow: hidden;
-    background: #ffa21d;
+    background: #008195;
     border-width: 0;
 }
 
@@ -788,7 +788,7 @@ label input[type=radio] {
     }
 
     .page-title-content ul li a {
-        color: #ffa21d;
+        color: #008195;
         font-size: 24px;
         font-family: 'Schoolbell', cursive;
     }
@@ -803,7 +803,7 @@ label input[type=radio] {
         position: absolute;
         width: 10px;
         height: 2px;
-        background: #ffa21d;
+        background: #008195;
         top: 50%;
         left: -2px;
     }
@@ -1166,7 +1166,7 @@ label input[type=radio] {
     margin-bottom: 20px;
 }
 .banner-area1 .banner-text-wrap span {
-    color: #ffa21d;
+    color: #008195;
     font-size: 30px;
     margin-bottom: 7px;
     display: block;
@@ -1391,7 +1391,7 @@ input.banner-form:nth-child(4) {
     }
     .banner-slider3 .banner-text-wrap span {
         font-size: 30px;
-        color: #ffa21d;
+        color: #008195;
         margin-bottom: 10px;
         display: inline-block;
     }
@@ -1866,7 +1866,7 @@ input.banner-form:nth-child(4) {
 
 .single-bottle-text a i {
     margin-right: 8px;
-    color: #ffa21d;
+    color: #008195;
 }
 
 .single-bottle-inner {
@@ -2009,7 +2009,7 @@ input.banner-form:nth-child(4) {
     transition: .3s all linear;
 }
 .member-info .team-social-wrap li a:hover{
-    background: #ffa21d;
+    background: #008195;
     color: #fff;
 }
 .member-info {
@@ -2048,7 +2048,7 @@ input.banner-form:nth-child(4) {
 }
 .subscribe-heading span {
     font-size: 24px;
-    color: #ffa21d;
+    color: #008195;
 }
 
 .subscribe-heading h2 {
@@ -2390,7 +2390,7 @@ input.banner-form:nth-child(4) {
     width: 130px;
     height: 130px;
     position: absolute;
-    background: #ffa21d;
+    background: #008195;
     border-radius: 50%;
     text-align: center;
     top: 50px;
@@ -2531,7 +2531,7 @@ input.banner-form:nth-child(4) {
 }
 .single-blog-inner .post-details a i {
     margin-right: 6px;
-    color: #ffa21d;
+    color: #008195;
 }
 
 .single-blog-inner .post-info {
@@ -2634,7 +2634,7 @@ input.banner-form:nth-child(4) {
     color: #6ec6d8;
 }
 .social-list li a:hover {
-    background: #ffa21d;
+    background: #008195;
     color: #fff;
 }
 .post-tag-share {
@@ -2937,7 +2937,7 @@ input.banner-form:nth-child(4) {
     height: 45px;
     width: 45px;
     display: inline-block;
-    background: #ffa21d;
+    background: #008195;
     line-height: 45px;
     text-align: center;
     border-radius: 50%;
@@ -2996,7 +2996,7 @@ input.banner-form:nth-child(4) {
     content: "";
     position: absolute;
     left: 0;
-    top: -23px;
+    top: -58px;
     background-image: url('../img/waves4.png');
     height: 60%;
     width: 100%;

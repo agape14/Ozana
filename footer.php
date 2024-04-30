@@ -58,7 +58,7 @@
         </div>
         <div class="footer-bottom text-center">
             <div class="footer-bottom-text">
-                <p>© Copyright 2018 by <a href="#">Layerdrops.com</a></p>
+                <p>© Copyright 2024 | Todos los derechos Reservados | <a href="/">Ozana</a></p>
             </div>
         </div>
     </footer>
