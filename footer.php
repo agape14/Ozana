@@ -7,9 +7,9 @@
                         <!-- footer widget -->
                         <div class="footer-widget">
                             <div class="widget-title">
-                                <h3>Address</h3>
+                                <h3>Direccion</h3>
                             </div>
-                            <p>666 Road Broklyn Street, 88 New York, USA</p>
+                            <p>.....</p>
                         </div>
                         <!-- End of footer widget -->
                     </div>
@@ -18,7 +18,7 @@
                         <!-- footer widget -->
                         <div class="footer-widget text-center">
                             <div class="widget-title">
-                                <h3>Follow</h3>
+                                <h3>Siguenos</h3>
                             </div>
                             <div class="footer-social-area">
                                 <ul class="social-list mb--0 list-unstyled">
@@ -44,11 +44,11 @@
                         <!-- footer widget -->
                         <div class="footer-widget text-right">
                             <div class="widget-title">
-                                <h3>Contact</h3>
+                                <h3>Contáctanos</h3>
                             </div>
                             <div class="footer-contact-info">
-                                <a href="0008888999">000 8888 999</a>
-                                <a href="needhelp@mineralo.com">needhelp@mineralo.com</a>
+                                <a href="+51947758615">+51 947 758 615</a>
+                                <a href="ventas@ozana.com.pe">ventas@ozana.com.pe</a>
                             </div>
                         </div>
                         <!-- End of footer widget -->

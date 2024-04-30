@@ -60,7 +60,7 @@
                     <div class="logo-container col-xl-3 col-lg-3 col-md-4 col-sm-4 col-6">
                         <!-- Logo -->
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="/">
                                 <img src="assets/img/logo-ozanav5.png" data-rjs="2" alt="ozana" class="logo-img">
                             </a>
                         </div>
@@ -73,18 +73,18 @@
                                         <!-- Header-menu -->
                                         <div class="header-menu dosis">
                                             <ul>
-                                                <li class="active"><a href="#">Inicio <img src="assets/img/line2.png" alt=""></a>
-                                                    <ul>
+                                                <li class="active"><a href="/">Inicio <img src="assets/img/line2.png" alt=""></a>
+                                                    <!--<ul>
                                                         <li class="active"><a href="index.html">Inicio v1</a></li>
                                                         <li><a href="index-2.html">Inicio v2</a></li>
                                                         <li><a href="index-3.html">Inicio v3</a></li>
-                                                    </ul>
+                                                    </ul>   about.html  service.html    service-details.html    contact.html-->
                                                 </li>
-                                                <li><a href="about.html">Nosotros <img src="assets/img/line2.png" alt=""></a></li>
+                                                <li><a href="#">Nosotros <img src="assets/img/line2.png" alt=""></a></li>
                                                 <li><a href="#">Servicios<img src="assets/img/line2.png" alt=""></a>
                                                     <ul>
-                                                        <li><a href="service.html">Servicios</a></li>
-                                                        <li><a href="service-details.html">Detalle Servicio</a></li>
+                                                        <li><a href="#">Servicios</a></li>
+                                                        <li><a href="#">Detalle Servicio</a></li>
                                                     </ul>
                                                 </li>
                                                 <!--<li>
@@ -94,7 +94,7 @@
                                                         <li><a href="blog-details.html">Blog Details</a></li>
                                                     </ul>
                                                 </li>-->
-                                                <li><a href="contact.html">Contáctanos<img src="assets/img/line2.png" alt=""></a></li>
+                                                <li><a href="#">Contáctanos<img src="assets/img/line2.png" alt=""></a></li>
                                             </ul>
                                         </div>
                                         <!-- End of Header-menu -->

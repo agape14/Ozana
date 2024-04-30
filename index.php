@@ -358,7 +358,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <!-- single team member -->
                     <div class="single-team-member text-center">
-                        <img src="assets/img/team/team1.png" alt="">
+                        <img src="assets/img/team/person2.jpeg" alt="">
                         <div class="member-info">
                             <h4>Kevin Martin</h4>
                             <p>Delivery</p>
@@ -382,7 +382,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <!-- single team member -->
                     <div class="single-team-member text-center">
-                        <img src="assets/img/team/team4.png" alt="">
+                        <img src="assets/img/team/person2.jpeg" alt="">
                         <div class="member-info">
                             <h4>Camila Rose</h4>
                             <p>Administrador</p>
@@ -406,7 +406,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <!-- single team member -->
                     <div class="single-team-member text-center">
-                        <img src="assets/img/team/team2.png" alt="">
+                        <img src="assets/img/team/person2.jpeg" alt="">
                         <div class="member-info">
                             <h4>Jessica Brown</h4>
                             <p>Cofundador</p>
@@ -430,7 +430,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <!-- single team member -->
                     <div class="single-team-member text-center">
-                        <img src="assets/img/team/team3.png" alt="">
+                        <img src="assets/img/team/person2.jpeg" alt="">
                         <div class="member-info">
                             <h4>Mike Hardson</h4>
                             <p>Gerente</p>
@@ -455,31 +455,6 @@
         </div>
     </section>
     <!-- End of our team -->
-
-    <!-- subscribe area -->
-    <section class="boxed-shadow pt-110 pb-110">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-5">
-                    <!-- subscribe title -->
-                    <div class="subscribe-heading">
-                        <span class="schoolbell">Nuestras noticias mensuales</span>
-                        <h2>Unirse a la lista de correos</h2>
-                    </div>
-                    <!-- End of subscribe title -->
-                </div>
-                <div class="col-md-7">
-                    <div class="primary-form parsley-validate">
-                        <form action="#" method="post">
-                            <input type="email" placeholder="Enter your e-mail address" class="theme-input-style" required>
-                            <button class="btn" type="submit">Suscribirse</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- subscribe area -->
 
     <!-- testimonial area -->
     <section class="pt-120 pb-130 blue-bg2">
@@ -541,7 +516,7 @@
                            <!-- End of single testimonial -->
                            <!-- single testimonial -->
                            <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
+                                <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
                                <p>La calidad del agua es primordial para mí, y el bidón PET de 20 litros nunca me ha decepcionado. Confío plenamente en este producto para mantenerme saludable y bien hidratado.</p>
                                <div class="testimonial-author media">
                                    <img src="assets/img/team/author1.png" alt="">
@@ -555,13 +530,13 @@
 
                            <!-- single testimonial -->
                            <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
+                                <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
+                               <p>La calidad del agua es primordial para mí, y el bidón PET de 20 litros nunca me ha decepcionado. Confío plenamente en este producto para mantenerme saludable y bien hidratado.</p>
                                <div class="testimonial-author media">
-                                   <img src="assets/img/team/author2.png" alt="">
+                                   <img src="assets/img/team/author1.png" alt="">
                                    <div class="testimonial-author-deg">
-                                        <h4>Jessica Brown</h4>
-                                        <p>Co Founder</p>
+                                        <h4>Marta R.</h4>
+                                        <p>Cliente 3</p>
                                    </div>
                                </div>
                            </div>
@@ -569,18 +544,18 @@
                            
                            <!-- single testimonial -->
                            <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
+                                <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
+                               <p>La calidad del agua es primordial para mí, y el bidón PET de 20 litros nunca me ha decepcionado. Confío plenamente en este producto para mantenerme saludable y bien hidratado.</p>
                                <div class="testimonial-author media">
-                                   <img src="assets/img/team/author3.png" alt="">
+                                   <img src="assets/img/team/author1.png" alt="">
                                    <div class="testimonial-author-deg">
-                                        <h4>Paul Smith</h4>
-                                        <p>Officer</p>
+                                        <h4>Marta R.</h4>
+                                        <p>Cliente 3</p>
                                    </div>
                                </div>
                            </div>
                            <!-- End of single testimonial -->
-                           <!-- single testimonial -->
+                           <!-- single testimonial 
                            <div class="single-testimonial">
                             <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
                                <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
@@ -591,10 +566,10 @@
                                         <p>Manager</p>
                                    </div>
                                </div>
-                           </div>
+                           </div>-->
                            <!-- End of single testimonial -->
 
-                           <!-- single testimonial -->
+                           <!-- single testimonial 
                            <div class="single-testimonial">
                             <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
                                <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
@@ -605,10 +580,10 @@
                                         <p>Co Founder</p>
                                    </div>
                                </div>
-                           </div>
+                           </div>-->
                            <!-- End of single testimonial -->
                            
-                           <!-- single testimonial -->
+                           <!-- single testimonial 
                            <div class="single-testimonial">
                             <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
                                <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
@@ -619,7 +594,7 @@
                                         <p>Officer</p>
                                    </div>
                                </div>
-                           </div>
+                           </div>-->
                            <!-- End of single testimonial -->
                         </div>
                     </div>
@@ -629,17 +604,40 @@
     </section>
     <!-- End of testimonial area -->
 
-    <!-- our location -->
+    <!-- subscribe area -->
+    <section class="boxed-shadow pt-110 pb-110">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-5">
+                    <!-- subscribe title -->
+                    <div class="subscribe-heading">
+                        <span class="schoolbell">Nuestras noticias mensuales</span>
+                        <h2>Unirse a la lista de correos</h2>
+                    </div>
+                    <!-- End of subscribe title -->
+                </div>
+                <div class="col-md-7">
+                    <div class="primary-form parsley-validate">
+                        <form action="#" method="post">
+                            <input type="email" placeholder="Ingrese su correo electronico" class="theme-input-style" required>
+                            <button class="btn" type="submit">Suscribirse</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- subscribe area -->
+
+    <!-- our location 
     <section class="pt-120 pb-120 top-shape">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <!-- section title -->
                     <div class="section-title text-center">
                         <span class="schoolbell">Servicio de entrega en Lima - Perú</span>
                         <h2>Nosotros estamos en todas partes</h2>
                     </div>
-                    <!-- End of section title -->
                 </div>
             </div>
             <div class="row">
@@ -685,47 +683,34 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- End of our location -->
 
-    <!-- our partner -->
+    <!-- our partner 
     <section class="pt-120 pb-120 boxed-shadow">
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <!-- partner carosel inner -->
                     <div class="partner-carousel-wrap">
                         <div class="partner-carousel owl-carousel">
-                            <!-- single partner -->
                             <div class="single-partner">
                                 <img src="assets/img/partner.png" alt="">
                             </div>
-                            <!-- End of single partner -->
-
-                            <!-- single partner -->
                             <div class="single-partner">
                                 <img src="assets/img/partner.png" alt="">
                             </div>
-                            <!-- End of single partner -->
-
-                            <!-- single partner -->
                             <div class="single-partner">
                                 <img src="assets/img/partner.png" alt="">
                             </div>
-                            <!-- End of single partner -->
-
-                            <!-- single partner -->
                             <div class="single-partner">
                                 <img src="assets/img/partner.png" alt="">
                             </div>
-                            <!-- End of single partner -->
                         </div>
                     </div>
-                    <!--End of  partner carosel inner -->
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- End of our partner -->
 <?php
     include 'footer.php';
