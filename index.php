@@ -12,7 +12,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;">Tenemos el mejor <br> agua de mesa</h1>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Tenemos la mejor <br> agua de mesa</h1>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -25,7 +25,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;">Tenemos el mejor <br> agua de mesa</h1>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Tenemos la mejor <br> agua de mesa</h1>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -38,7 +38,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;">Tenemos el mejor <br> agua de mesa</h1>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Tenemos la mejor <br> agua de mesa</h1>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -153,7 +153,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-6">
-                    <!-- single bottle deliver wrap -->
+                    <!-- single bottle deliver wrap service-details.html-->
                     <div class="single-bottle-inner text-center">
                         <div class="bottle-image">
                             <img src="assets/img/icons/bottle-of-water.svg" alt="" class="svg">
@@ -161,10 +161,24 @@
                         <div class="single-bottle-text">
                             <h4>Botella de 1 litro</h4>
                             <p>Hidratación portátil y conveniente para tu día a día.</p>
-                            <a href="service-details.html"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
+                            <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                         </div>
                     </div>
                     <!-- End of single bottle deliver wrap -->
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <!-- single bottle deliver wrap service-details.html-->
+                    <div class="single-bottle-inner text-center">
+                        <div class="bottle-image">
+                            <img src="assets/img/icons/water-gallon.svg" alt="" class="svg">
+                        </div>
+                        <div class="single-bottle-text">
+                            <h4>Bidón de 10 litros</h4>
+                            <p>Solución práctica para un suministro de agua duradero.</p>
+                            <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
+                        </div>
+                    </div>
+                    <!-- End of single bottle deliver wrap service-details.html-->
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <!-- single bottle deliver wrap -->
@@ -173,26 +187,12 @@
                             <img src="assets/img/icons/water-gallon.svg" alt="" class="svg">
                         </div>
                         <div class="single-bottle-text">
-                            <h4>Bidón de 10 litros</h4>
-                            <p>Solución práctica para un suministro de agua duradero.</p>
-                            <a href="service-details.html"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
-                        </div>
-                    </div>
-                    <!-- End of single bottle deliver wrap -->
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <!-- single bottle deliver wrap -->
-                    <div class="single-bottle-inner text-center">
-                        <div class="bottle-image">
-                            <img src="assets/img/icons/big-bottle-of-water.svg" alt="" class="svg">
-                        </div>
-                        <div class="single-bottle-text">
                             <h4>Bidón PET de 20 litros</h4>
                             <p>Gran capacidad en un recipiente seguro y ligero.</p>
-                            <a href="service-details.html"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
+                            <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                         </div>
                     </div>
-                    <!-- End of single bottle deliver wrap -->
+                    <!-- End of single bottle deliver wrap service-details.html-->
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <!-- single bottle deliver wrap -->
@@ -203,7 +203,7 @@
                         <div class="single-bottle-text">
                             <h4>Caja 20L con dispensador</h4>
                             <p>Acceso fácil y cómodo a agua purificada.</p>
-                            <a href="service-details.html"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
+                            <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                         </div>
                     </div>
                     <!-- End of single bottle deliver wrap service.html-->

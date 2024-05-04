@@ -78,7 +78,7 @@
                                                         <li class="active"><a href="index.html">Inicio v1</a></li>
                                                         <li><a href="index-2.html">Inicio v2</a></li>
                                                         <li><a href="index-3.html">Inicio v3</a></li>
-                                                    </ul>   about.html  service.html    service-details.html    contact.html-->
+                                                    </ul>   about.html  service.html    service-details.html    contact.html  blog.html  blog-details.html-->
                                                 </li>
                                                 <li><a href="#">Nosotros <img src="assets/img/line2.png" alt=""></a></li>
                                                 <li><a href="#">Servicios<img src="assets/img/line2.png" alt=""></a>
@@ -87,13 +87,13 @@
                                                         <li><a href="#">Detalle Servicio</a></li>
                                                     </ul>
                                                 </li>
-                                                <!--<li>
+                                                <li>
                                                     <a href="#">Blog <img src="assets/img/line2.png" alt=""></a>
                                                     <ul>
-                                                        <li><a href="blog.html">Blog Layout</a></li>
-                                                        <li><a href="blog-details.html">Blog Details</a></li>
+                                                        <li><a href="#">Blog Listado</a></li>
+                                                        <li><a href="#">Blog Detalles</a></li>
                                                     </ul>
-                                                </li>-->
+                                                </li>
                                                 <li><a href="#">Contáctanos<img src="assets/img/line2.png" alt=""></a></li>
                                             </ul>
                                         </div>
