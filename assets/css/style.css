@@ -825,7 +825,7 @@ label input[type=radio] {
     -webkit-transition: background .3s;
     transition: background .3s;
     border-bottom: 1px solid #dae0ef;
-    background: rgba(255, 255, 255, 0.7); /* Añadir transparencia con un valor alfa de 0.9 */
+    background: rgba(255, 255, 255, 0.9); /* Añadir transparencia con un valor alfa de 0.9 */
 }
 
     .main-menu-wrap {
@@ -1882,6 +1882,11 @@ input.banner-form:nth-child(4) {
 .single-bottle-inner .bottle-image svg path {
     fill: #6ec6d8;
 }
+
+.quality-bottle-details .bottle-image svg path {
+    fill: #6ec6d8;
+}
+
 .deliver-btn {
     margin-top: 30px;
 }

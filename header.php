@@ -73,19 +73,19 @@
                                         <!-- Header-menu -->
                                         <div class="header-menu dosis">
                                             <ul>
-                                                <li class="active"><a href="/">Inicio <img src="assets/img/line2.png" alt=""></a>
+                                                <li <?php if ($_SERVER['REQUEST_URI'] == "/") echo 'class="active"'; ?>><a href="/">Inicio <img src="assets/img/line2.png" alt=""></a>
                                                     <!--<ul>
                                                         <li class="active"><a href="index.html">Inicio v1</a></li>
                                                         <li><a href="index-2.html">Inicio v2</a></li>
                                                         <li><a href="index-3.html">Inicio v3</a></li>
                                                     </ul>   about.html  service.html    service-details.html    contact.html  blog.html  blog-details.html-->
                                                 </li>
-                                                <li><a href="#">Nosotros <img src="assets/img/line2.png" alt=""></a></li>
-                                                <li><a href="#">Servicios<img src="assets/img/line2.png" alt=""></a>
-                                                    <ul>
-                                                        <li><a href="#">Servicios</a></li>
-                                                        <li><a href="#">Detalle Servicio</a></li>
-                                                    </ul>
+                                                <li <?php if ($_SERVER['REQUEST_URI'] == "/nosotros.php") echo 'class="active"'; ?>><a href="nosotros.php">Nosotros <img src="assets/img/line2.png" alt=""></a></li>
+                                                <li <?php if ($_SERVER['REQUEST_URI'] == "/productos.php") echo 'class="active"'; ?>><a href="productos.php">Productos<img src="assets/img/line2.png" alt=""></a>
+                                                    <!--<ul>
+                                                        <li><a href="#">Productos</a></li>
+                                                        <li><a href="#">Detalle Productos</a></li>
+                                                    </ul>-->
                                                 </li>
                                                 <li>
                                                     <a href="#">Blog <img src="assets/img/line2.png" alt=""></a>
@@ -94,7 +94,7 @@
                                                         <li><a href="#">Blog Detalles</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="#">Contáctanos<img src="assets/img/line2.png" alt=""></a></li>
+                                                <li <?php if ($_SERVER['REQUEST_URI'] == "/contactanos.php") echo 'class="active"'; ?>><a href="contactanos.php">Contáctanos<img src="assets/img/line2.png" alt=""></a></li>
                                             </ul>
                                         </div>
                                         <!-- End of Header-menu -->

@@ -5,7 +5,98 @@
 <div class="banner_area1 clearfix">
         
         <div class="camera_wrap" id="banner_slider1">
+            <div class="hero_slider" data-src="assets/img/banner/agua-movimiento.webp">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <!-- banner text wrap -->
+                            <div class="banner-text-wrap">
+                                <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Tenemos la mejor <br> agua de mesa</h1>
+                            </div><!--/.End of  banner text wrap -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+                </div><!--/.container-->
+            </div><!--/.Slider Item-->
             <div class="hero_slider" data-src="assets/img/banner/agua1-recorte.webp">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <!-- banner text wrap -->
+                            <div class="banner-text-wrap">
+                                <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Tenemos la mejor <br> agua de mesa</h1>
+                            </div><!--/.End of  banner text wrap -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+                </div><!--/.container-->
+            </div><!--/.Slider Item-->
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte.jpg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <!-- banner text wrap -->
+                            <div class="banner-text-wrap">
+                                <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Tenemos la mejor <br> agua de mesa</h1>
+                            </div><!--/.End of  banner text wrap -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+                </div><!--/.container-->
+            </div><!--/.Slider Item-->
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte2.jpg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <!-- banner text wrap -->
+                            <div class="banner-text-wrap">
+                                <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Tenemos la mejor <br> agua de mesa</h1>
+                            </div><!--/.End of  banner text wrap -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+                </div><!--/.container-->
+            </div><!--/.Slider Item-->
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte3.jpg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <!-- banner text wrap -->
+                            <div class="banner-text-wrap">
+                                <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Tenemos la mejor <br> agua de mesa</h1>
+                            </div><!--/.End of  banner text wrap -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+                </div><!--/.container-->
+            </div><!--/.Slider Item-->
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte4.jpg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <!-- banner text wrap -->
+                            <div class="banner-text-wrap">
+                                <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Tenemos la mejor <br> agua de mesa</h1>
+                            </div><!--/.End of  banner text wrap -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+                </div><!--/.container-->
+            </div><!--/.Slider Item-->
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte5.jpg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <!-- banner text wrap -->
+                            <div class="banner-text-wrap">
+                                <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
+                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Tenemos la mejor <br> agua de mesa</h1>
+                            </div><!--/.End of  banner text wrap -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+                </div><!--/.container-->
+            </div><!--/.Slider Item-->
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte6.jpg">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
@@ -138,472 +229,24 @@
     </section>
     <!-- End of why bottol water -->
 
-    <!-- bottole deliver -->
-    <section class="pt-120 pb-120">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12">
-                    <!-- section title -->
-                    <div class="section-title text-center">
-                        <span class="schoolbell">Tenemos variedad de opciones</span>
-                        <h2>Nuestras presentaciones</h2>
-                    </div>
-                    <!-- End of section title -->
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6">
-                    <!-- single bottle deliver wrap service-details.html-->
-                    <div class="single-bottle-inner text-center">
-                        <div class="bottle-image">
-                            <img src="assets/img/icons/bottle-of-water.svg" alt="" class="svg">
-                        </div>
-                        <div class="single-bottle-text">
-                            <h4>Botella de 1 litro</h4>
-                            <p>Hidratación portátil y conveniente para tu día a día.</p>
-                            <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
-                        </div>
-                    </div>
-                    <!-- End of single bottle deliver wrap -->
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <!-- single bottle deliver wrap service-details.html-->
-                    <div class="single-bottle-inner text-center">
-                        <div class="bottle-image">
-                            <img src="assets/img/icons/water-gallon.svg" alt="" class="svg">
-                        </div>
-                        <div class="single-bottle-text">
-                            <h4>Bidón de 10 litros</h4>
-                            <p>Solución práctica para un suministro de agua duradero.</p>
-                            <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
-                        </div>
-                    </div>
-                    <!-- End of single bottle deliver wrap service-details.html-->
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <!-- single bottle deliver wrap -->
-                    <div class="single-bottle-inner text-center">
-                        <div class="bottle-image">
-                            <img src="assets/img/icons/water-gallon.svg" alt="" class="svg">
-                        </div>
-                        <div class="single-bottle-text">
-                            <h4>Bidón PET de 20 litros</h4>
-                            <p>Gran capacidad en un recipiente seguro y ligero.</p>
-                            <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
-                        </div>
-                    </div>
-                    <!-- End of single bottle deliver wrap service-details.html-->
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <!-- single bottle deliver wrap -->
-                    <div class="single-bottle-inner text-center">
-                        <div class="bottle-image">
-                            <img src="assets/img/icons/water-dispenser.svg" alt="" class="svg">
-                        </div>
-                        <div class="single-bottle-text">
-                            <h4>Caja 20L con dispensador</h4>
-                            <p>Acceso fácil y cómodo a agua purificada.</p>
-                            <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
-                        </div>
-                    </div>
-                    <!-- End of single bottle deliver wrap service.html-->
-                </div>
-                <div class="col-12">
-                    <div class="deliver-btn text-center">
-                        <a href="#" class="btn">Ver más</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End of bottole deliver -->
+    <?php
+        include 'nuestraspresentaciones.php';
+    ?>
+    <?php
+        include 'procesopruficacion.php';
+    ?>
+    <?php
+        include 'sobrenosotros.php';
+    ?>
+
+    <?php
+        include 'nuestroequipo.php';
+    ?>
+
+    <?php
+        include 'testimonios.php';
+    ?>
     
-    <!-- feature area type2-->
-    <section>
-        <div class="features-inner type2 pt-120 pb-90">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-12">
-                        <!-- section title -->
-                        <div class="section-title text-center" style="margin-top: -50px !important;">
-                            <h2 class="text-white">Proceso de Purificación</h2>
-                        </div>
-                        <!-- End of section title -->
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-lg-4">
-                        <!-- single featuer inner -->
-                        <div class="single-feature text-center">
-                            <img src="assets/img/icons/feature1.svg" class="svg" alt="">
-                            <h3>1. Filtro de arena</h3>
-                        </div>
-                        <!-- End of single featuer inner -->
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <!-- single featuer inner -->
-                        <div class="single-feature text-center">
-                            <img src="assets/img/icons/feature2.svg" class="svg" alt="">
-                            <h3>2. Filtro de carbon activo</h3>
-                        </div>
-                        <!-- End of single featuer inner -->
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <!-- single featuer inner -->
-                        <div class="single-feature text-center">
-                            <img src="assets/img/icons/feature3.svg" class="svg" alt="">
-                            <h3>3. Filtro micrónico</h3>
-                        </div>
-                        <!-- End of single featuer inner -->
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <!-- single featuer inner -->
-                        <div class="single-feature text-center">
-                            <img src="assets/img/icons/feature4.svg" class="svg" alt="">
-                            <h3>4. Osmósis inversa</h3>
-                        </div>
-                        <!-- End of single featuer inner -->
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <!-- single featuer inner -->
-                        <div class="single-feature text-center">
-                            <img src="assets/img/icons/feature3.svg" class="svg" alt="">
-                            <h3>5. Luz ultravioleta</h3>
-                        </div>
-                        <!-- End of single featuer inner -->
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <!-- single featuer inner -->
-                        <div class="single-feature text-center">
-                            <img src="assets/img/icons/feature4.svg" class="svg" alt="">
-                            <h3>6. Desinfección de ozono</h3>
-                        </div>
-                        <!-- End of single featuer inner -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End of feature area -->
-
-    <!-- about area -->
-    <section class="pt-120 pb-120 primary-bg">
-       <div class="container">
-           <div class="row align-items-center">
-               <div class="col-lg-6">
-                   <div class="about-image">
-                       <img src="assets/img/about-img.jpg" alt="">
-                   </div>
-               </div>
-               <div class="col-lg-6">
-                   <!-- about inner -->
-                   <div class="about-wrap">
-                       <!-- section title -->
-                        <div class="section-title type2">
-                            <span class="schoolbell">Sobre nosotros</span>
-                            <h2>Sobre Ozana</h2>
-                        </div>
-                       <!-- End of section title -->
-                       <div class="about-area-text">
-                           <p>Somos el grupo empresarial HIDROKAL. Tenemos el propósito de responder al llamado de Dios a través del servicio a la sociedad con nuestros productos. Contamos con mas de 10 años de experiencia en la mejora de procesos y logística comercial con un marcado enfoque en el cliente y con una perspectiva de vida que contribuya al desarrollo de nuestros accionistas, trabajadores, socios estratégicos y clientes finales.</p>
-                           <div class="about-counter-inner">
-                               <div class="row">
-                                   <div class="col-12 col-sm-6">
-                                       <!-- single counter -->
-                                       <div class="single-counter-inner text-center">
-                                           <div class="counter-image">
-                                               <img src="assets/img/icons/water-bottle(2).svg" class="svg" alt="">
-                                           </div>
-                                           <span class="counter">5420</span>
-                                           <p>Botellas de 1 litro</p>
-                                       </div>
-                                       <!-- End of single counter -->
-                                   </div>
-                                   <div class="col-12 col-sm-6">
-                                       <!-- single counter -->
-                                       <div class="single-counter-inner text-center">
-                                           <div class="counter-image">
-                                               <img src="assets/img/icons/water-bottle(1).svg" class="svg" alt="">
-                                           </div>
-                                           <span class="counter">3784</span>
-                                           <p>Clientes satisfechos</p>
-                                       </div>
-                                       <!-- End of single counter -->
-                                   </div>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-                   <!-- End of about inner -->
-               </div>
-           </div>
-       </div> 
-    </section>
-    <!-- End of about area -->
-
-    <!-- our team -->
-    <section class="pt-120 pb-90">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-8">
-                    <!-- section title -->
-                    <div class="section-title text-center">
-                        <span class="schoolbell">Botellas de agua</span>
-                        <h2>Conozca a nuestro equipo</h2>
-                    </div>
-                    <!-- End of section title -->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-sm-6">
-                    <!-- single team member -->
-                    <div class="single-team-member text-center">
-                        <img src="assets/img/team/person2.jpeg" alt="">
-                        <div class="member-info">
-                            <h4>Kevin Martin</h4>
-                            <p>Delivery</p>
-                            <!-- team social area -->
-                            <ul class="list-unstyled team-social-wrap mb-0">
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-pinterest"></i></a>
-                                </li>
-                            </ul>
-                            <!-- End of team social area -->
-                        </div>
-                    </div>
-                    <!-- End of single team member -->
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <!-- single team member -->
-                    <div class="single-team-member text-center">
-                        <img src="assets/img/team/person2.jpeg" alt="">
-                        <div class="member-info">
-                            <h4>Camila Rose</h4>
-                            <p>Administrador</p>
-                            <!-- team social area -->
-                            <ul class="list-unstyled team-social-wrap mb-0">
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-pinterest"></i></a>
-                                </li>
-                            </ul>
-                            <!-- End of team social area -->
-                        </div>
-                    </div>
-                    <!-- End of single team member -->
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <!-- single team member -->
-                    <div class="single-team-member text-center">
-                        <img src="assets/img/team/person2.jpeg" alt="">
-                        <div class="member-info">
-                            <h4>Jessica Brown</h4>
-                            <p>Cofundador</p>
-                            <!-- team social area -->
-                            <ul class="list-unstyled team-social-wrap mb-0">
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-pinterest"></i></a>
-                                </li>
-                            </ul>
-                            <!-- End of team social area -->
-                        </div>
-                    </div>
-                    <!-- End of single team member -->
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <!-- single team member -->
-                    <div class="single-team-member text-center">
-                        <img src="assets/img/team/person2.jpeg" alt="">
-                        <div class="member-info">
-                            <h4>Mike Hardson</h4>
-                            <p>Gerente</p>
-                            <!-- team social area -->
-                            <ul class="list-unstyled team-social-wrap mb-0">
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-pinterest"></i></a>
-                                </li>
-                            </ul>
-                            <!-- End of team social area -->
-                        </div>
-                    </div>
-                    <!-- End of single team member -->
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End of our team -->
-
-    <!-- testimonial area -->
-    <section class="pt-120 pb-130 blue-bg2">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12">
-                    <!-- section title -->
-                    <div class="section-title text-center">
-                        <span class="schoolbell">Nuestros comentarios</span>
-                        <h2 class="text-white">Testimonios</h2>
-                    </div>
-                    <!-- End of section title -->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="testionial-carousel-wrap">
-                        <div class="owl-carousel testimonial-carousel">
-                           <!-- single testimonial -->
-                           <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>¡El agua de mesa es mi elección diaria! Me encanta su sabor fresco y puro, y la comodidad de tener diferentes opciones de envase para adaptarse a mis necesidades.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author1.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Ana M.</h4>
-                                        <p>Cliente 1</p>
-                                   </div>
-                               </div>
-                           </div>
-                           <!-- End of single testimonial -->
-
-                           <!-- single testimonial -->
-                           <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>Desde que empecé a usar el bidón con dispensador, mi familia y yo hemos estado más hidratados que nunca. ¡Es tan práctico y fácil de usar!.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author2.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Luis G.</h4>
-                                        <p>Cliente 1</p>
-                                   </div>
-                               </div>
-                           </div>
-                           <!-- End of single testimonial -->
-
-                           <!-- single testimonial -->
-                           <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author3.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Paul Smith</h4>
-                                        <p>Cliente 2</p>
-                                   </div>
-                               </div>
-                           </div>
-                           <!-- End of single testimonial -->
-                           <!-- single testimonial -->
-                           <div class="single-testimonial">
-                                <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>La calidad del agua es primordial para mí, y el bidón PET de 20 litros nunca me ha decepcionado. Confío plenamente en este producto para mantenerme saludable y bien hidratado.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author1.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Marta R.</h4>
-                                        <p>Cliente 3</p>
-                                   </div>
-                               </div>
-                           </div>
-                           <!-- End of single testimonial -->
-
-                           <!-- single testimonial -->
-                           <div class="single-testimonial">
-                                <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>La calidad del agua es primordial para mí, y el bidón PET de 20 litros nunca me ha decepcionado. Confío plenamente en este producto para mantenerme saludable y bien hidratado.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author1.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Marta R.</h4>
-                                        <p>Cliente 3</p>
-                                   </div>
-                               </div>
-                           </div>
-                           <!-- End of single testimonial -->
-                           
-                           <!-- single testimonial -->
-                           <div class="single-testimonial">
-                                <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>La calidad del agua es primordial para mí, y el bidón PET de 20 litros nunca me ha decepcionado. Confío plenamente en este producto para mantenerme saludable y bien hidratado.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author1.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Marta R.</h4>
-                                        <p>Cliente 3</p>
-                                   </div>
-                               </div>
-                           </div>
-                           <!-- End of single testimonial -->
-                           <!-- single testimonial 
-                           <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author1.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Kevin Martin</h4>
-                                        <p>Manager</p>
-                                   </div>
-                               </div>
-                           </div>-->
-                           <!-- End of single testimonial -->
-
-                           <!-- single testimonial 
-                           <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author2.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Jessica Brown</h4>
-                                        <p>Co Founder</p>
-                                   </div>
-                               </div>
-                           </div>-->
-                           <!-- End of single testimonial -->
-                           
-                           <!-- single testimonial 
-                           <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author3.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Paul Smith</h4>
-                                        <p>Officer</p>
-                                   </div>
-                               </div>
-                           </div>-->
-                           <!-- End of single testimonial -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End of testimonial area -->
-
     <!-- subscribe area -->
     <section class="boxed-shadow pt-110 pb-110">
         <div class="container">

@@ -223,7 +223,7 @@ We may release future updates so it will overwrite this file. it's better and sa
     //Google Map
     if($('#google-map').length){
         var googleMapSelector = $('#google-map'),
-            myCenter = new google.maps.LatLng(40.7185635, -74.040);
+            myCenter = new google.maps.LatLng(-11.914726191724382, -77.04593397387958);
 
         function initialize() {
             var mapProp = {
