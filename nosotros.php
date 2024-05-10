@@ -37,10 +37,9 @@
                         <div class="post-content">
                             <div class="post-details">
                                 <div class="post-title">
-                                    <h3>Mision</h3>
+                                    <h3>Misión</h3>
                                 </div>
                                 <p>Ser un referente en el mercado de agua distinguida por la alta calidad y compromiso hacia nuestros clientes, proporcionando bienestar a través de nuestros productos.</p>
-                                <a href="#"><i class="fa fa-arrow-circle-o-right"></i>More</a>
                             </div>
                         </div><!-- /.End of post content -->
                     </div><!-- /.End of single blog inner -->
@@ -59,10 +58,9 @@
                         <div class="post-content">
                             <div class="post-details">
                                 <div class="post-title">
-                                    <h3>Vision</h3>
+                                    <h3>Visión</h3>
                                 </div>
                                 <p>Brindar la mejor calidad de agua embotellada a través de una experiencia saludable ofreciendo productos de alta calidad con una filosofía de constante innovación para mejorar la vida de nuestros clientes.</p>
-                                <a href="#"><i class="fa fa-arrow-circle-o-right"></i>More</a>
                             </div>
                         </div><!--/.End of post content -->
                     </div><!-- /.End of single blog inner -->

@@ -19,7 +19,7 @@
                         <div class="member-info">
                             <h4>Kevin Martin</h4>
                             <p>Delivery</p>
-                            <!-- team social area -->
+                            <!-- team social area
                             <ul class="list-unstyled team-social-wrap mb-0">
                                 <li>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
@@ -30,7 +30,7 @@
                                 <li>
                                     <a href="#"><i class="fa fa-pinterest"></i></a>
                                 </li>
-                            </ul>
+                            </ul> -->
                             <!-- End of team social area -->
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                         <div class="member-info">
                             <h4>Camila Rose</h4>
                             <p>Administrador</p>
-                            <!-- team social area -->
+                            <!-- team social area 
                             <ul class="list-unstyled team-social-wrap mb-0">
                                 <li>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
@@ -54,7 +54,7 @@
                                 <li>
                                     <a href="#"><i class="fa fa-pinterest"></i></a>
                                 </li>
-                            </ul>
+                            </ul>-->
                             <!-- End of team social area -->
                         </div>
                     </div>
@@ -67,7 +67,7 @@
                         <div class="member-info">
                             <h4>Jessica Brown</h4>
                             <p>Cofundador</p>
-                            <!-- team social area -->
+                            <!-- team social area 
                             <ul class="list-unstyled team-social-wrap mb-0">
                                 <li>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
@@ -78,7 +78,7 @@
                                 <li>
                                     <a href="#"><i class="fa fa-pinterest"></i></a>
                                 </li>
-                            </ul>
+                            </ul>-->
                             <!-- End of team social area -->
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                         <div class="member-info">
                             <h4>Mike Hardson</h4>
                             <p>Gerente</p>
-                            <!-- team social area -->
+                            <!-- team social area
                             <ul class="list-unstyled team-social-wrap mb-0">
                                 <li>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
@@ -102,7 +102,7 @@
                                 <li>
                                     <a href="#"><i class="fa fa-pinterest"></i></a>
                                 </li>
-                            </ul>
+                            </ul> -->
                             <!-- End of team social area -->
                         </div>
                     </div>

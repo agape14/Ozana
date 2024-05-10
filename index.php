@@ -149,7 +149,7 @@
                     <div class="section-title text-center type3">
                         <span class="schoolbell">Bienvenido a Ozana</span>
                         <h2>Tu bienestar es lo primero</h2>
-                        <p>Agua OZANA ha sido creada con la misión de generar bienestar a los consumidores ofreciendo agua de calidad mediante la mejor tecnología de purificación. Los beneficios que ofrecemos son:</p>
+                        <p>Agua OZANA ha sido creada con la misión de promover una vida saludable a nuestros consumidores ofreciendo  agua de calidad mediante la mejor tecnología de purificación. Los beneficios que ofrecemos son:</p>
                     </div>
                     <!-- End of section title -->
                 </div>
@@ -161,7 +161,7 @@
                         <div class="feature-icon"><img src="assets/img/icons/glass-of-water.svg" class="svg" alt=""></div>
                         <h4>AGUA PURA AL 99%</h4>
                         <p>Libre de impurezas y microorganismos, asegurando una hidratación confiable y segura para tu hogar.</p>
-                        <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
+                        <a href="/productos.php"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                     <!-- End of single feature inner -->
                 </div>
@@ -172,7 +172,7 @@
                         <div class="feature-icon"><img src="assets/img/icons/laboratory.svg" class="svg" alt=""></div>
                         <h4>AGUA LIBRE DE QUÍMICOS</h4>
                         <p>Nuestra agua pasa por rigurosos procesos de filtración que eliminan cualquier rastro de químicos nocivos.</p>
-                        <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
+                        <a href="/productos.php"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                     <!-- End of single feature inner -->
                 </div>
@@ -183,7 +183,7 @@
                         <div class="feature-icon"><img src="assets/img/icons/heart.svg" class="svg" alt=""></div>
                         <h4>CUIDAMOS TU SALUD</h4>
                         <p>Priorizamos tu bienestar al ofrecerte un agua que no solo te hidrata, sino que también protege tu salud.</p>
-                        <a href="#"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
+                        <a href="/productos.php"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                     <!-- End of single feature inner -->
                 </div>

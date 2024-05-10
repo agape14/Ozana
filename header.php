@@ -57,16 +57,16 @@
             <div class="main-menu-wrap">
                 <div class="container-fluide">
                     <div class="row align-items-center">
-                    <div class="logo-container col-xl-3 col-lg-3 col-md-4 col-sm-4 col-6">
-                        <!-- Logo -->
-                        <div class="logo">
-                            <a href="/">
-                                <img src="assets/img/logo-ozanav5.png" data-rjs="2" alt="ozana" class="logo-img">
-                            </a>
+                        <div class="logo-container col-xl-3 col-lg-3 col-md-4 col-sm-4 col-6">
+                            <!-- Logo -->
+                            <div class="logo">
+                                <a href="/">
+                                    <img src="assets/img/logo-ozanav5.png" data-rjs="2" alt="ozana" class="logo-img">
+                                </a>
+                            </div>
+                            <!-- End of Logo -->
                         </div>
-                        <!-- End of Logo -->
-                    </div>
-                        <div class="col-xl-6 col-lg-6 col-md-4 col-sm-4 col-6 menu-button">
+                        <div class="col-xl-7 col-lg-7 col-md-5 col-sm-5 col-6 menu-button">
                             <div class="menu--inner-area clearfix">
                                 <div class="menu-wraper">
                                     <nav>
@@ -102,7 +102,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-4">
+                        <div class="col-lg-2 col-md-3 col-sm-3">
                             <div class="urgent-call text-right">
                                 <span><i class="fa fa-phone fa-lg" style="color: #008195;" aria-hidden="true"></i></span><a href="#">+51 947 758 615</a>
                             </div>

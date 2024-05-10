@@ -7,7 +7,7 @@
                         <!-- footer widget -->
                         <div class="footer-widget">
                             <div class="widget-title">
-                                <h3>Direccion</h3>
+                                <h3>Dirección</h3>
                             </div>
                             <p>.....</p>
                         </div>
@@ -18,7 +18,7 @@
                         <!-- footer widget -->
                         <div class="footer-widget text-center">
                             <div class="widget-title">
-                                <h3>Siguenos</h3>
+                                <h3>Síguenos</h3>
                             </div>
                             <div class="footer-social-area">
                                 <ul class="social-list mb--0 list-unstyled">
@@ -66,7 +66,7 @@
 
     <!-- back to top -->
     <a class="robbu-whatsapp-button" target="_blank" href="https://api.whatsapp.com/send?phone=51947758615&text=Hola, te escribo luego de revisar tu página web.">
-        <div class="rwb-tooltip">Contactanos por Whatsapp</div>
+        <div class="rwb-tooltip">Contáctanos por Whatsapp</div>
         <img src="assets/img/whatsapp-icon.svg">
     </a>
 

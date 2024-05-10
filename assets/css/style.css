@@ -868,6 +868,7 @@ label input[type=radio] {
 .header-menu > ul > li {
     display: inline-block;
     float: left;
+    margin-right: 40px; /* Alejar los items del menu*/
 }
 .header-menu > ul > li.has-sub:hover:after {
     content: '';
@@ -1748,6 +1749,12 @@ input.banner-form:nth-child(4) {
 }
 
 .type2 .single-feature svg {
+    margin-bottom: 22px;
+    height: 64px;
+    width: 64px;
+}
+
+.type2 .single-feature img {
     margin-bottom: 22px;
     height: 64px;
     width: 64px;
