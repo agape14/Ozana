@@ -48,7 +48,7 @@
                             </div>
                             <div class="footer-contact-info">
                                 <a href="+51947758615">+51 947 758 615</a>
-                                <a href="ventas@ozana.com.pe">ventas@ozana.com.pe</a>
+                                <a href="ventas@biozana.com.pe">ventas@biozana.com.pe</a>
                             </div>
                         </div>
                         <!-- End of footer widget -->
@@ -58,7 +58,7 @@
         </div>
         <div class="footer-bottom text-center">
             <div class="footer-bottom-text">
-                <p>© Copyright 2024 | Todos los derechos Reservados | <a href="/">Ozana</a></p>
+                <p>© Copyright 2024 | Todos los derechos Reservados | <a href="/">Biozana</a></p>
             </div>
         </div>
     </footer>

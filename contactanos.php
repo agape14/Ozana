@@ -42,7 +42,7 @@
                         <div class="single-conatct-info">
                             <h4>Contacto</h4>
                             <a href="+51947758615">+51 947 758 615</a>
-                            <a href="ventas@ozana.com.pe">ventas@ozana.com.pe</a>
+                            <a href="ventas@biozana.com.pe">ventas@biozana.com.pe</a>
                         </div>
                         <!-- End of single contact info -->
                     </div><!--/.col-->

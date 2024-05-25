@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#008195"> <!-- Cambia el color según tu preferencia -->
     <!-- Document Title -->
-    <title>OZANA | Agua purificada y ozonizada</title>
+    <title>BIOZANA | Agua purificada y ozonizada</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/ico" href="favicon.ico">
@@ -61,7 +61,7 @@
                             <!-- Logo -->
                             <div class="logo">
                                 <a href="/">
-                                    <img src="assets/img/logo-ozanav5.png" data-rjs="2" alt="ozana" class="logo-img">
+                                    <img src="assets/img/logo-ozanav6.png" data-rjs="2" alt="biozana" class="logo-img">
                                 </a>
                             </div>
                             <!-- End of Logo -->

@@ -147,9 +147,9 @@
                 <div class="col-12">
                     <!-- section title -->
                     <div class="section-title text-center type3">
-                        <span class="schoolbell">Bienvenido a Ozana</span>
+                        <span class="schoolbell">Bienvenido a Biozana</span>
                         <h2>Tu bienestar es lo primero</h2>
-                        <p>Agua OZANA ha sido creada con la misión de promover una vida saludable a nuestros consumidores ofreciendo  agua de calidad mediante la mejor tecnología de purificación. Los beneficios que ofrecemos son:</p>
+                        <p>Agua BIOZANA ha sido creada con la misión de promover una vida saludable a nuestros consumidores ofreciendo  agua de calidad mediante la mejor tecnología de purificación. Los beneficios que ofrecemos son:</p>
                     </div>
                     <!-- End of section title -->
                 </div>

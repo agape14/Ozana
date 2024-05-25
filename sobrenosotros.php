@@ -13,7 +13,7 @@
                        <!-- section title -->
                         <div class="section-title type2">
                             <span class="schoolbell">Sobre nosotros</span>
-                            <h2>Sobre Ozana</h2>
+                            <h2>Sobre Biozana</h2>
                         </div>
                        <!-- End of section title -->
                        <div class="about-area-text">
