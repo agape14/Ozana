@@ -12,25 +12,11 @@
             </div>
         </div>
         <div class="row justify-content-center ">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <!-- single bottle deliver wrap service-details.html-->
                 <div class="single-bottle-inner text-center">
                     <div class="bottle-image">
-                        <img src="assets/img/icons/bottle-of-water.svg" alt="" class="svg">
-                    </div>
-                    <div class="single-bottle-text">
-                        <h4>Botella de 1 litro</h4>
-                        <p>Hidratación portátil y conveniente para tu día a día.</p>
-                        <a href="/productos.php"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
-                    </div>
-                </div>
-                <!-- End of single bottle deliver wrap -->
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <!-- single bottle deliver wrap service-details.html-->
-                <div class="single-bottle-inner text-center">
-                    <div class="bottle-image">
-                        <img src="assets/img/icons/water-gallon.svg" alt="" class="svg">
+                        <img src="assets/img/rmbg/BOTELLA_10_L.png" alt="" class="svg">
                     </div>
                     <div class="single-bottle-text">
                         <h4>Bidón de 10 litros</h4>
@@ -40,29 +26,29 @@
                 </div>
                 <!-- End of single bottle deliver wrap service-details.html-->
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <!-- single bottle deliver wrap -->
                 <div class="single-bottle-inner text-center">
                     <div class="bottle-image">
-                        <img src="assets/img/icons/water-gallon.svg" alt="" class="svg">
+                        <img src="assets/img/rmbg/BOTELLA_20_L_CANO_LIMPIO.png" alt="" class="svg">
                     </div>
                     <div class="single-bottle-text">
                         <h4>Bidón de 20 litros</h4>
-                        <p>Gran capacidad en un recipiente de 20 litros seguro y ligero.</p>
+                        <p>Gran capacidad en un recipiente de 20 litros.</p>
                         <a href="/productos.php"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                 </div>
                 <!-- End of single bottle deliver wrap service-details.html-->
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <!-- single bottle deliver wrap -->
                 <div class="single-bottle-inner text-center">
-                    <div class="bottle-image">
-                        <img src="assets/img/icons/water-dispenser.svg" alt="" class="svg">
+                    <div class="bottle-image p-2">
+                        <img src="assets/img/rmbg/CAJA_20_L_LIMPIO_2.png" alt="" class="svg">
                     </div>
-                    <div class="single-bottle-text">
-                        <h4>Caja de 20 litros con caño</h4>
-                        <p>Acceso fácil y cómodo a agua purificada.</p>
+                    <div class="single-bottle-text mt-4">
+                        <h4 class="p-2">Caja de 20 litros con caño</h4>
+                        <p>Caja de agua de mesa, 20 litros con caño, caja descartable para empresas.</p>
                         <a href="/productos.php"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                 </div>

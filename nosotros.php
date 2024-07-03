@@ -93,7 +93,7 @@
     ?>
 
     <?php
-        include 'nuestroequipo.php';
+        //include 'nuestroequipo.php';
     ?>
 
     <?php

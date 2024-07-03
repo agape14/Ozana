@@ -3397,3 +3397,8 @@ h1 span {
 [data-animate].animated {
     visibility: visible;
 }
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
