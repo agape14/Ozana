@@ -215,16 +215,26 @@
                     <!-- End of section title -->
                 </div>
             </div>
+            <!--<div class="row">
+                <div class="col-12">
+                    <div class="bottle-video-wrap">
+                        <img src='assets/img/video-bg.jpg' alt="">
+                        <a href="https://www.youtube.com/watch?v=hul1omNKP5c" class="video-btn" data-popup="video"><i class="fa fa-play"></i></a>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/amK8VvHs4Zg?si=hdEmX61q0SPvjrm_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>-->
+
             <div class="row">
                 <div class="col-12">
                     <!-- why bottle video -->
                     <div class="bottle-video-wrap">
-                        <img src='assets/img/video-bg.jpg' alt="">
-                        <a href="https://www.youtube.com/watch?v=hul1omNKP5c" class="video-btn" data-popup="video"><i class="fa fa-play"></i></a>
+                        <iframe width="1110" height="578" src="https://www.youtube.com/embed/amK8VvHs4Zg?si=jpPN9OyV_mX5JxjP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                     <!-- end of why bottle video -->
                 </div>
             </div>
+
         </div>
     </section>
     <!-- End of why bottol water -->

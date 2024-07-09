@@ -48,7 +48,7 @@
                     </div>
                     <div class="single-bottle-text mt-4">
                         <h4 class="p-2">Caja de 20 litros con caño</h4>
-                        <p>Caja de agua de mesa, 20 litros con caño, caja descartable para empresas.</p>
+                        <p>20 litros con caño, caja descartable para empresas.</p>
                         <a href="/productos.php"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                 </div>
@@ -60,6 +60,7 @@
                 </div>
             </div>
         </div>
+
     </div>
 </section>
 <!-- End of bottole deliver -->

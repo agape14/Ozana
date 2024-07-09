@@ -47,7 +47,7 @@
                                 <h3>Contáctanos</h3>
                             </div>
                             <div class="footer-contact-info">
-                                <a href="+51947758615">+51 947 758 615</a>
+                                <a href="+51974261306">+51 974 261 306</a>
                                 <a href="ventas@biozana.com.pe">ventas@biozana.com.pe</a>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
     <!-- End of footer -->
 
     <!-- back to top -->
-    <a class="robbu-whatsapp-button" target="_blank" href="https://api.whatsapp.com/send?phone=51947758615&text=Hola, te escribo luego de revisar tu página web.">
+    <a class="robbu-whatsapp-button" target="_blank" href="https://api.whatsapp.com/send?phone=51974261306&text=Hola, te escribo luego de revisar tu página web.">
         <div class="rwb-tooltip">Contáctanos por Whatsapp</div>
         <img src="assets/img/whatsapp-icon.svg">
     </a>
