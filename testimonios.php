@@ -23,7 +23,7 @@
                                    <img src="assets/img/team/author1.png" alt="">
                                    <div class="testimonial-author-deg">
                                         <h4>Ana M.</h4>
-                                        <p>Cliente 1</p>
+                                        <p>Bodega Ana</p>
                                    </div>
                                </div>
                            </div>
@@ -37,7 +37,7 @@
                                    <img src="assets/img/team/author2.png" alt="">
                                    <div class="testimonial-author-deg">
                                         <h4>Luis G.</h4>
-                                        <p>Cliente 1</p>
+                                        <p>Minimarket Lima</p>
                                    </div>
                                </div>
                            </div>
@@ -46,97 +46,15 @@
                            <!-- single testimonial -->
                            <div class="single-testimonial">
                             <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
+                            <p>La calidad del agua es primordial para mí, y el bidón PET de 20 litros nunca me ha decepcionado. Confío plenamente en este producto para mantenerme saludable y bien hidratado.</p>
                                <div class="testimonial-author media">
                                    <img src="assets/img/team/author3.png" alt="">
                                    <div class="testimonial-author-deg">
                                         <h4>Paul Smith</h4>
-                                        <p>Cliente 2</p>
+                                        <p>Bodega San Miguel</p>
                                    </div>
                                </div>
                            </div>
-                           <!-- End of single testimonial -->
-                           <!-- single testimonial -->
-                           <div class="single-testimonial">
-                                <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>La calidad del agua es primordial para mí, y el bidón PET de 20 litros nunca me ha decepcionado. Confío plenamente en este producto para mantenerme saludable y bien hidratado.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author1.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Marta R.</h4>
-                                        <p>Cliente 3</p>
-                                   </div>
-                               </div>
-                           </div>
-                           <!-- End of single testimonial -->
-
-                           <!-- single testimonial -->
-                           <div class="single-testimonial">
-                                <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>La calidad del agua es primordial para mí, y el bidón PET de 20 litros nunca me ha decepcionado. Confío plenamente en este producto para mantenerme saludable y bien hidratado.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author1.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Marta R.</h4>
-                                        <p>Cliente 3</p>
-                                   </div>
-                               </div>
-                           </div>
-                           <!-- End of single testimonial -->
-                           
-                           <!-- single testimonial -->
-                           <div class="single-testimonial">
-                                <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>La calidad del agua es primordial para mí, y el bidón PET de 20 litros nunca me ha decepcionado. Confío plenamente en este producto para mantenerme saludable y bien hidratado.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author1.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Marta R.</h4>
-                                        <p>Cliente 3</p>
-                                   </div>
-                               </div>
-                           </div>
-                           <!-- End of single testimonial -->
-                           <!-- single testimonial 
-                           <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author1.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Kevin Martin</h4>
-                                        <p>Manager</p>
-                                   </div>
-                               </div>
-                           </div>-->
-                           <!-- End of single testimonial -->
-
-                           <!-- single testimonial 
-                           <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author2.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Jessica Brown</h4>
-                                        <p>Co Founder</p>
-                                   </div>
-                               </div>
-                           </div>-->
-                           <!-- End of single testimonial -->
-                           
-                           <!-- single testimonial 
-                           <div class="single-testimonial">
-                            <img src="assets/img/qort-icon.png" class='qurt-icon1' alt="">
-                               <p>There are many variations of passages of available but the majority have alteration in some form by inject humour or random words which don't look even slightly they will believe you.</p>
-                               <div class="testimonial-author media">
-                                   <img src="assets/img/team/author3.png" alt="">
-                                   <div class="testimonial-author-deg">
-                                        <h4>Paul Smith</h4>
-                                        <p>Officer</p>
-                                   </div>
-                               </div>
-                           </div>-->
                            <!-- End of single testimonial -->
                         </div>
                     </div>

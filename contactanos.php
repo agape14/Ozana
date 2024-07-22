@@ -25,7 +25,7 @@
                         <!-- single contact info -->
                         <div class="single-conatct-info">
                             <h4>Acerca de nosotros</h4>
-                            <p>Phaseus site amet tristique ligua donec iaculis leo sus.</p>
+                            <p>Somos el grupo empresarial HIDROKAL. Tenemos el propósito de responder al llamado de Dios a través del servicio a la sociedad con nuestros productos. Contamos con mas de 10 años de experiencia en la mejora de procesos y logística comercial con un marcado enfoque en el cliente y con una perspectiva de vida que contribuya al desarrollo de nuestros accionistas, trabajadores, socios estratégicos y clientes finales.</p>
                         </div>
                         <!-- End of single contact info -->
                     </div>
@@ -33,7 +33,7 @@
                         <!-- single contact info -->
                         <div class="single-conatct-info">
                             <h4>Direccion</h4>
-                            <p>...</p>
+                            <p>Comas, Lima, Perú</p>
                         </div>
                         <!-- End of single contact info -->
                     </div>
@@ -41,7 +41,7 @@
                         <!-- single contact info -->
                         <div class="single-conatct-info">
                             <h4>Contacto</h4>
-                            <a href="+51947758615">+51 947 758 615</a>
+                            <a href="+51947758615">+51 974 261 306</a>
                             <a href="ventas@biozana.com.pe">ventas@biozana.com.pe</a>
                         </div>
                         <!-- End of single contact info -->
@@ -81,7 +81,7 @@
                                 <div class="col-md-12">
                                     <textarea name="message" placeholder="Escribe el detalle del mensaje" class="theme-input-style"></textarea>
                                     <div class="submite-btn text-center">
-                                        <button type="submit" class="btn">Enviar Mensaje</button>
+                                        <button type="submit" class="btn" disabled>Enviar Mensaje</button>
                                     </div>
                                 </div>
                             </div>

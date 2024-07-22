@@ -20,7 +20,7 @@
                     </div>
                     <div class="single-bottle-text">
                         <h4>Bidón de 10 litros</h4>
-                        <p>Solución práctica para un suministro de agua duradero.</p>
+                        <p>¡Más agua para toda la familia y amigos!</p>
                         <a href="/productos.php"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                     </div>
                     <div class="single-bottle-text">
                         <h4>Bidón de 20 litros</h4>
-                        <p>Gran capacidad en un recipiente de 20 litros.</p>
+                        <p>¡Ideal para tu lugar de trabajo u hogar!</p>
                         <a href="/productos.php"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                     </div>
                     <div class="single-bottle-text mt-4">
                         <h4 class="p-2">Caja de 20 litros con caño</h4>
-                        <p>20 litros con caño, caja descartable para empresas.</p>
+                        <p>¡Listo para acompañarte donde vayas!</p>
                         <a href="/productos.php"><i class="fa fa-arrow-circle-o-right"></i>Ver más</a>
                     </div>
                 </div>

@@ -39,6 +39,8 @@
 
     <!--==== Custom css file ====-->
     <link rel="stylesheet" href="assets/css/custom.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 
 <body>
@@ -90,8 +92,7 @@
                                                 <li>
                                                     <a href="#">Blog <img src="assets/img/line2.png" alt=""></a>
                                                     <ul>
-                                                        <li><a href="#">Blog Listado</a></li>
-                                                        <li><a href="#">Blog Detalles</a></li>
+                                                        <li><a href="#">En desarrollo</a></li>
                                                     </ul>
                                                 </li>
                                                 <li <?php if ($_SERVER['REQUEST_URI'] == "/contactanos.php") echo 'class="active"'; ?>><a href="contactanos.php">Contáctanos<img src="assets/img/line2.png" alt=""></a></li>
@@ -104,7 +105,7 @@
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-3">
                             <div class="urgent-call text-right">
-                                <span><i class="fa fa-phone fa-lg" style="color: #008195;" aria-hidden="true"></i></span><a href="#">+51 974 261 306</a>
+                                <span><i class="fab fa-solid fa-phone-volume" style="color: #008195;" aria-hidden="true"></i></span><a href="#">+51 974 261 306</a>
                             </div>
                         </div>
                     </div>

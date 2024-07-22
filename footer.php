@@ -9,7 +9,7 @@
                             <div class="widget-title">
                                 <h3>Dirección</h3>
                             </div>
-                            <p>.....</p>
+                            <p>Comas, Lima, Perú</p>
                         </div>
                         <!-- End of footer widget -->
                     </div>
@@ -23,16 +23,13 @@
                             <div class="footer-social-area">
                                 <ul class="social-list mb--0 list-unstyled">
                                     <li>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                        <a href="https://www.facebook.com/profile.php?id=61560563251365&mibextid=ZbWKwL " target="_blank"><i class="fab fa-facebook-f"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://www.instagram.com/aguademesabiozana" target="_blank"><i class="fab fa-instagram"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i class="fa fa-pinterest"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fa fa-youtube"></i></a>
+                                        <a href="https://www.tiktok.com/@aguamezabiozana" target="_blank"><i class="fab fa-tiktok"></i></a>
                                     </li>
                                 </ul>
                             </div>

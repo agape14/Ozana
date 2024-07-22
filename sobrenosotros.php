@@ -2,17 +2,17 @@
     <section class="pt-120 pb-120 primary-bg">
        <div class="container">
            <div class="row align-items-center">
-               <div class="col-lg-6">
+               <!--<div class="col-lg-6">
                    <div class="about-image">
                        <img src="assets/img/about-img.jpg" alt="">
                    </div>
-               </div>
-               <div class="col-lg-6">
+               </div>-->
+               <div class="col-lg-12">
                    <!-- about inner -->
                    <div class="about-wrap">
                        <!-- section title -->
                         <div class="section-title type2">
-                            <span class="schoolbell">Sobre nosotros</span>
+                            <!--<span class="schoolbell">Sobre nosotros</span>-->
                             <h2>Sobre Biozana</h2>
                         </div>
                        <!-- End of section title -->
