@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#008195"> <!-- Cambia el color según tu preferencia -->
+    <meta name="description" content="BIOZANA ofrece agua purificada y ozonizada. Somos HIDROKAL, con más de 10 años de experiencia en procesos y logística comercial, enfocados en el servicio al cliente y el desarrollo sostenible.">
     <!-- Document Title -->
-    <title>BIOZANA | Agua purificada y ozonizada</title>
+    <title>BIOZANA | Agua purificada y ozonizada  para tu bienestar</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/ico" href="favicon.ico">
@@ -113,5 +114,6 @@
             </div>
         </div>
         <!-- End Header Navbar-->
+        <h1 class="d-none">BIOZANA, Agua purificada y ozonizada</h1>
     </header>
     <!-- End of Main header -->

@@ -12,7 +12,7 @@
                             <li><a href="#">Inicio</a></li>
                             <li><a href="#">Nosotros</a></li>
                         </ul> -->
-                        <h1 class="h2">Acerca de nosotros</h1>
+                        <h2 class="h2">Acerca de nosotros</h2>
                     </div><!-- /.End of page title content -->
                 </div><!-- /.col -->
             </div><!-- /.row -->

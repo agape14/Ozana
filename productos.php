@@ -8,7 +8,7 @@
                 <div class="col">
                     <!-- page title content -->
                     <div class="page-title-content text-center">
-                        <h1 class="h2">Nuestros Productos</h1>
+                        <h2 class="h2">Nuestros Productos</h2>
                     </div><!--/.End of page title content -->
                 </div><!-- /.col-->
             </div><!-- /.row-->

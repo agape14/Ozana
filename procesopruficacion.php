@@ -24,7 +24,7 @@
                         <!-- single featuer inner -->
                         <div class="single-feature text-center">
                             <img src="assets/img/icons/carbon.png" class="svg" alt="">
-                            <h3>2. Filtro de carbon activo</h3>
+                            <h3>2. Filtro de carbón activo</h3>
                         </div>
                         <!-- End of single featuer inner -->
                     </div>
@@ -40,7 +40,7 @@
                         <!-- single featuer inner -->
                         <div class="single-feature text-center">
                             <img src="assets/img/icons/feature4.svg" class="svg" alt="">
-                            <h3>4. Osmósis inversa</h3>
+                            <h3>4. Ósmosis inversa</h3>
                         </div>
                         <!-- End of single featuer inner -->
                     </div>

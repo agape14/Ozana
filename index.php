@@ -12,7 +12,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h1>
+                                <h2 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h2>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -25,7 +25,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h1>
+                                <h2 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h2>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -38,7 +38,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h1>
+                                <h2 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h2>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -51,7 +51,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h1>
+                                <h2 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h2>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -64,7 +64,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h1>
+                                <h2 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h2>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -77,7 +77,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h1>
+                                <h2 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h2>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -90,7 +90,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h1>
+                                <h2 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h2>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -103,7 +103,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h1>
+                                <h2 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .3s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h2>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -116,7 +116,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h1>
+                                <h2 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h2>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -129,7 +129,7 @@
                             <!-- banner text wrap -->
                             <div class="banner-text-wrap">
                                 <span class="schoolbell fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .0s;-webkit-animation-delay: .0s;">Tu bienestar es lo primero</span>
-                                <h1 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h1>
+                                <h2 class="text-white fadeInUp" style="animation-duration: 1s; -webkit-animation-duration: 1s; animation-fill-mode: both; animation-delay: .2s;-webkit-animation-delay: .2s;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Tenemos la mejor <br> agua para ti!</h1>
                             </div><!--/.End of  banner text wrap -->
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -215,21 +215,11 @@
                     <!-- End of section title -->
                 </div>
             </div>
-            <!--<div class="row">
-                <div class="col-12">
-                    <div class="bottle-video-wrap">
-                        <img src='assets/img/video-bg.jpg' alt="">
-                        <a href="https://www.youtube.com/watch?v=hul1omNKP5c" class="video-btn" data-popup="video"><i class="fa fa-play"></i></a>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/amK8VvHs4Zg?si=hdEmX61q0SPvjrm_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </div>-->
-
             <div class="row">
                 <div class="col-12">
                     <!-- why bottle video -->
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe width="1110" height="578" src="https://www.youtube.com/embed/amK8VvHs4Zg?si=jpPN9OyV_mX5JxjP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <iframe width="1110" height="578" src="https://www.youtube.com/embed/WEqKlipAoIg?si=7n7SYWE7AdnOIYyL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                     <!-- end of why bottle video -->
                 </div>
