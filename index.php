@@ -5,7 +5,7 @@
 <div class="banner_area1 clearfix">
         
         <div class="camera_wrap" id="banner_slider1">
-            <div class="hero_slider" data-src="assets/img/banner/agua-movimiento.webp">
+            <div class="hero_slider" data-src="assets/img/banner/agua-movimiento.webp" loading="lazy">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">

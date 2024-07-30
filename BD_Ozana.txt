@@ -1,0 +1,114 @@
+CREATE TABLE Contadores (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    botellas_1litro INT NOT NULL DEFAULT 5420,
+    clientes_satisfechos INT NOT NULL DEFAULT 3784,
+    fecha_actualizacion TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+
+-- Inicializar la tabla con un registro
+INSERT INTO Contadores (botellas_1litro, clientes_satisfechos) VALUES (5420, 3784);
+
+CREATE TABLE Testimonios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    detalle TEXT NOT NULL,
+    nombre VARCHAR(250) NOT NULL,
+    cargo_entidad VARCHAR(500) NOT NULL,
+    fecha_creacion TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+
+CREATE TABLE Suscripciones (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    email VARCHAR(255) NOT NULL,
+    fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE Blog (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titulo VARCHAR(255) NOT NULL,
+    imagen VARCHAR(255) NULL,
+    descripcion TEXT NOT NULL,
+    fecha TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    etiqueta VARCHAR(255) NULL
+);
+
+CREATE TABLE DetalleBlog (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    idBlog INT NOT NULL,
+    nombre VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    comentario TEXT NOT NULL,
+    fecha_comentario TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (idBlog) REFERENCES Blog(id) ON DELETE CASCADE
+);
+
+
+
+CREATE TABLE Perfiles (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Permisos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    perfil_id INT NOT NULL,
+    FOREIGN KEY (perfil_id) REFERENCES Perfiles(id)
+);
+
+CREATE TABLE PerfilPermisos (
+    perfil_id INT NOT NULL,
+    permiso_id INT NOT NULL,
+    PRIMARY KEY (perfil_id, permiso_id),
+    FOREIGN KEY (perfil_id) REFERENCES Perfiles(id) ON DELETE CASCADE,
+    FOREIGN KEY (permiso_id) REFERENCES Permisos(id) ON DELETE CASCADE
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+composer create-project --prefer-dist laravel/laravel:^9.0 mckesson-zoho-bc
+
+composer create-project --prefer-dist laravel/laravel:^9.0 mckesson-zoho
+
+
+
+
+
+
+1. Actualizar contador de botellas de 1 litro(5420) y clientes satisfechos(3784)
+2. Testimonio: tiene detalle(text), nombre varchar(250), cargo o Entidad(500)
+3. Suscripciones:  Guardar los correos para la suscripcion y mostrar en una tabla con la fecha y hora del registro.
+4. Blog: titulo, imagen, descripcion, fecha, etiqueta.  Detalle blog: idBlog, nombre, email, comentario
+
+
+
+
+
+
+
