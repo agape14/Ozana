@@ -64,7 +64,7 @@
                             <!-- Logo -->
                             <div class="logo">
                                 <a href="/">
-                                    <img src="assets/img/logo-ozanav6.png" data-rjs="2" alt="biozana" class="logo-img">
+                                    <img src="assets/img/Logo-Biozana-Horizontal-Web.png" data-rjs="2" alt="biozana" class="logo-img">
                                 </a>
                             </div>
                             <!-- End of Logo -->
