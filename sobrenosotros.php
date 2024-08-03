@@ -24,7 +24,7 @@
                                        <!-- single counter -->
                                        <div class="single-counter-inner text-center">
                                            <div class="counter-image">
-                                               <img src="assets/img/icons/water-bottle(2).svg" class="svg" alt="">
+                                               <img src="assets/img/icons/water-bottle(2).svg" class="svg" alt="Botella de agua de Biozana 1">
                                            </div>
                                            <span class="counter">5420</span>
                                            <p>Botellas de 1 litro</p>
@@ -35,7 +35,7 @@
                                        <!-- single counter -->
                                        <div class="single-counter-inner text-center">
                                            <div class="counter-image">
-                                               <img src="assets/img/icons/water-bottle(1).svg" class="svg" alt="">
+                                               <img src="assets/img/icons/water-bottle(1).svg" class="svg" alt="Botella de agua de Biozana 2">
                                            </div>
                                            <span class="counter">3784</span>
                                            <p>Clientes satisfechos</p>

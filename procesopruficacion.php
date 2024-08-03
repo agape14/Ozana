@@ -15,7 +15,7 @@
                     <div class="col-md-6 col-lg-4">
                         <!-- single featuer inner -->
                         <div class="single-feature text-center">
-                            <img src="assets/img/icons/filtro1.png" class="svg" alt="">
+                            <img src="assets/img/icons/filtro1.png" class="svg" alt="Icono de filtro de agua">
                             <h3>1. Filtro de arena</h3>
                         </div>
                         <!-- End of single featuer inner -->
@@ -23,7 +23,7 @@
                     <div class="col-md-6 col-lg-4">
                         <!-- single featuer inner -->
                         <div class="single-feature text-center">
-                            <img src="assets/img/icons/carbon.png" class="svg" alt="">
+                            <img src="assets/img/icons/carbon.png" class="svg" alt="Icono de filtro de carbón">
                             <h3>2. Filtro de carbón activo</h3>
                         </div>
                         <!-- End of single featuer inner -->
@@ -31,7 +31,7 @@
                     <div class="col-md-6 col-lg-4">
                         <!-- single featuer inner -->
                         <div class="single-feature text-center">
-                            <img src="assets/img/icons/feature1.svg" class="svg" alt="">
+                            <img src="assets/img/icons/feature1.svg" class="svg" alt="Icono de característica 1">
                             <h3>3. Filtro micrónico</h3>
                         </div>
                         <!-- End of single featuer inner -->
@@ -39,7 +39,7 @@
                     <div class="col-md-6 col-lg-4">
                         <!-- single featuer inner -->
                         <div class="single-feature text-center">
-                            <img src="assets/img/icons/feature4.svg" class="svg" alt="">
+                            <img src="assets/img/icons/feature4.svg" class="svg" alt="Icono de característica 4">
                             <h3>4. Ósmosis inversa</h3>
                         </div>
                         <!-- End of single featuer inner -->
@@ -47,7 +47,7 @@
                     <div class="col-md-6 col-lg-4">
                         <!-- single featuer inner -->
                         <div class="single-feature text-center">
-                            <img src="assets/img/icons/proteccion-uv.png" class="svg" alt="">
+                            <img src="assets/img/icons/proteccion-uv.png" class="svg" alt="Icono de protección UV">
                             <h3>5. Luz ultravioleta</h3>
                         </div>
                         <!-- End of single featuer inner -->
@@ -55,7 +55,7 @@
                     <div class="col-md-6 col-lg-4">
                         <!-- single featuer inner -->
                         <div class="single-feature text-center">
-                            <img src="assets/img/icons/ozono.png" class="svg" alt="">
+                            <img src="assets/img/icons/ozono.png" class="svg" alt="Icono de ozono">
                             <h3>6. Desinfección de ozono</h3>
                         </div>
                         <!-- End of single featuer inner -->

@@ -24,7 +24,7 @@
                                         <!-- qulity bottle details -->
                                         <div class="quality-bottle-details">
                                             <div class="bottle-image">
-                                                <img src="assets/img/BOTELLA 10 L.png" alt="" class="svg">
+                                                <img src="assets/img/BOTELLA 10 L.png" alt="Botella de 10 litros de Biozana" class="svg">
                                             </div>
                                         </div>
                                         <!--/.End of qulity bottle details -->
@@ -48,7 +48,7 @@
                                         <!-- qulity bottle details -->
                                         <div class="quality-bottle-details">
                                             <div class="bottle-image">
-                                                <img src="assets/img/BOTELLA 20 L CANO LIMPIO.png" alt="" class="svg">
+                                                <img src="assets/img/BOTELLA 20 L CANO LIMPIO.png" alt="Botella de 20 litros de Biozana con caño" class="svg">
                                             </div>
                                         </div>
                                         <!--/.End of qulity bottle details -->
@@ -72,7 +72,7 @@
                                         <!-- qulity bottle details -->
                                         <div class="quality-bottle-details">
                                             <div class="bottle-image">
-                                                <img src="assets/img/CAJA 20 L LIMPIO.png" alt="" class="svg">
+                                                <img src="assets/img/CAJA 20 L LIMPIO.png" alt="Caja de 20 litros de Biozana" class="svg">
                                             </div>
                                         </div>
                                         <!--/.End of qulity bottle details -->

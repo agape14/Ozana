@@ -5,7 +5,7 @@
 <div class="banner_area1 clearfix">
         
         <div class="camera_wrap" id="banner_slider1">
-            <div class="hero_slider" data-src="assets/img/banner/agua-movimiento.webp" loading="lazy">
+        <div class="hero_slider" data-src="assets/img/banner/agua-movimiento.webp" loading="lazy" alt="Animación de gota de agua en movimiento">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
@@ -18,7 +18,7 @@
                     </div><!-- /.row -->
                 </div><!--/.container-->
             </div><!--/.Slider Item-->
-            <div class="hero_slider" data-src="assets/img/banner/agua1-recorte.webp">
+            <div class="hero_slider" data-src="assets/img/banner/agua1-recorte.webp" loading="lazy" alt="Agua purificada en movimiento">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
@@ -31,7 +31,7 @@
                     </div><!-- /.row -->
                 </div><!--/.container-->
             </div><!--/.Slider Item-->
-            <div class="hero_slider" data-src="assets/img/banner/agua-recorte.jpg">
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte.jpg" loading="lazy" alt="Recorte de agua purificada">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
@@ -44,7 +44,7 @@
                     </div><!-- /.row -->
                 </div><!--/.container-->
             </div><!--/.Slider Item-->
-            <div class="hero_slider" data-src="assets/img/banner/agua-recorte2.jpg">
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte2.jpg" loading="lazy" alt="Detalle de agua purificada en segundo plano">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
@@ -57,7 +57,7 @@
                     </div><!-- /.row -->
                 </div><!--/.container-->
             </div><!--/.Slider Item-->
-            <div class="hero_slider" data-src="assets/img/banner/agua-recorte3.jpg">
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte3.jpg" loading="lazy" alt="Imagen recortada de agua en movimiento">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
@@ -70,7 +70,7 @@
                     </div><!-- /.row -->
                 </div><!--/.container-->
             </div><!--/.Slider Item-->
-            <div class="hero_slider" data-src="assets/img/banner/agua-recorte4.jpg">
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte4.jpg" loading="lazy" alt="Agua purificada en detalle">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
@@ -83,7 +83,7 @@
                     </div><!-- /.row -->
                 </div><!--/.container-->
             </div><!--/.Slider Item-->
-            <div class="hero_slider" data-src="assets/img/banner/agua-recorte5.jpg">
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte5.jpg" loading="lazy" alt="Fotografía de agua en movimiento">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
@@ -96,7 +96,7 @@
                     </div><!-- /.row -->
                 </div><!--/.container-->
             </div><!--/.Slider Item-->
-            <div class="hero_slider" data-src="assets/img/banner/agua-recorte6.jpg">
+            <div class="hero_slider" data-src="assets/img/banner/agua-recorte6.jpg" loading="lazy" alt="Imagen detallada de agua purificada">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
@@ -109,7 +109,7 @@
                     </div><!-- /.row -->
                 </div><!--/.container-->
             </div><!--/.Slider Item-->
-            <div class="hero_slider" data-src="assets/img/banner/tomar-agua-banner.jpg">
+            <div class="hero_slider" data-src="assets/img/banner/tomar-agua-banner.jpg" loading="lazy" alt="Persona tomando agua purificada">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">
@@ -122,7 +122,7 @@
                     </div><!-- /.row -->
                 </div><!--/.container-->
             </div><!-- /.hero area -->
-            <div class="hero_slider" data-src="assets/img/banner/tomando agua-recorte.jpg">
+            <div class="hero_slider" data-src="assets/img/banner/tomando agua-recorte.jpg" loading="lazy" alt="Recorte de persona tomando agua">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7">

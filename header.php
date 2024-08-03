@@ -64,7 +64,7 @@
                             <!-- Logo -->
                             <div class="logo">
                                 <a href="/">
-                                    <img src="assets/img/Logo-Biozana-Horizontal-Web.png" data-rjs="2" alt="biozana" class="logo-img">
+                                    <img src="assets/img/Logo-Biozana-Horizontal-Web.png" data-rjs="2" alt="Logo de Biozana" class="logo-img">
                                 </a>
                             </div>
                             <!-- End of Logo -->
@@ -91,7 +91,7 @@
                                                     </ul>-->
                                                 </li>
                                                 <li>
-                                                    <a href="#">Blog <img src="assets/img/line2.png" alt=""></a>
+                                                    <a href="#">Blog <img src="assets/img/line2.png" alt="Línea decorativa"></a>
                                                     <ul>
                                                         <li><a href="#">En desarrollo</a></li>
                                                     </ul>

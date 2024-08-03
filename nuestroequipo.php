@@ -15,7 +15,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <!-- single team member -->
                     <div class="single-team-member text-center">
-                        <img src="assets/img/team/person2.jpg" alt="">
+                        <img src="assets/img/team/person2.jpg" alt="Miembro del equipo">
                         <div class="member-info">
                             <h4>Kevin Martin</h4>
                             <p>Delivery</p>
@@ -39,7 +39,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <!-- single team member -->
                     <div class="single-team-member text-center">
-                        <img src="assets/img/team/person2.jpg" alt="">
+                        <img src="assets/img/team/person2.jpg" alt="Miembro del equipo">
                         <div class="member-info">
                             <h4>Camila Rose</h4>
                             <p>Administrador</p>
@@ -63,7 +63,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <!-- single team member -->
                     <div class="single-team-member text-center">
-                        <img src="assets/img/team/person2.jpg" alt="">
+                        <img src="assets/img/team/person2.jpg" alt="Miembro del equipo">
                         <div class="member-info">
                             <h4>Jessica Brown</h4>
                             <p>Cofundador</p>
@@ -87,7 +87,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <!-- single team member -->
                     <div class="single-team-member text-center">
-                        <img src="assets/img/team/person2.jpg" alt="">
+                        <img src="assets/img/team/person2.jpg" alt="Miembro del equipo">
                         <div class="member-info">
                             <h4>Mike Hardson</h4>
                             <p>Gerente</p>

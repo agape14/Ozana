@@ -16,7 +16,7 @@
                 <!-- single bottle deliver wrap service-details.html-->
                 <div class="single-bottle-inner text-center">
                     <div class="bottle-image">
-                        <img src="assets/img/rmbg/BOTELLA_10_L.png" alt="" class="svg">
+                        <img src="assets/img/rmbg/BOTELLA_10_L.png" alt="Botella de 10 litros de Biozana" class="svg">
                     </div>
                     <div class="single-bottle-text">
                         <h4>Bidón de 10 litros</h4>
@@ -30,7 +30,7 @@
                 <!-- single bottle deliver wrap -->
                 <div class="single-bottle-inner text-center">
                     <div class="bottle-image">
-                        <img src="assets/img/rmbg/BOTELLA_20_L_CANO_LIMPIO.png" alt="" class="svg">
+                        <img src="assets/img/rmbg/BOTELLA_20_L_CANO_LIMPIO.png" alt="Botella de 20 litros de Biozana con caño" class="svg">
                     </div>
                     <div class="single-bottle-text">
                         <h4>Bidón de 20 litros</h4>
@@ -44,7 +44,7 @@
                 <!-- single bottle deliver wrap -->
                 <div class="single-bottle-inner text-center">
                     <div class="bottle-image p-2">
-                        <img src="assets/img/rmbg/CAJA_20_L_LIMPIO_2.png" alt="" class="svg">
+                        <img src="assets/img/rmbg/CAJA_20_L_LIMPIO_2.png" alt="Caja de 20 litros de Biozana" class="svg">
                     </div>
                     <div class="single-bottle-text mt-4">
                         <h4 class="p-2">Caja de 20 litros con caño</h4>
