@@ -265,16 +265,66 @@
                 </div>
                 <div class="col-md-7">
                     <div class="primary-form parsley-validate">
-                        <form action="#" method="post">
-                            <input type="email" placeholder="Ingrese su correo electronico" class="theme-input-style" required>
-                            <button class="btn" type="submit" disabled>Suscribirse</button>
+                        <form id="subscribe-form">
+                            <input type="email" name="email" placeholder="Ingrese su correo electrónico" class="theme-input-style" required>
+                            <button class="btn" type="submit">Suscribirse</button>                            
+                            <br>
+                            <div class="g-recaptcha" data-sitekey="6LdpwS8qAAAAABM367clbBeoqstLsyVOte76Dn98"></div> <!-- Cambia TU_CLAVE_DE_SITIO con tu clave del sitio de reCAPTCHA -->
                         </form>
+                        <div id="response-message" class="alert" style="display: none;"></div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <!-- subscribe area -->
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const form = document.getElementById('subscribe-form');
+        const responseMessage = document.getElementById('response-message');
+
+        form.addEventListener('submit', function(event) {
+            event.preventDefault(); // Evita que el formulario se envíe de manera tradicional
+
+            const formData = new FormData(form);
+
+            fetch('suscribirse.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    responseMessage.className = 'alert alert-success';
+                    responseMessage.textContent = data.message;
+                    form.reset(); // Limpia el formulario
+                } else {
+                    responseMessage.className = 'alert alert-danger';
+                    responseMessage.textContent = data.message;
+                }
+
+                responseMessage.style.display = 'block';
+
+                // Ocultar el mensaje después de 5 segundos
+                setTimeout(() => {
+                    responseMessage.style.display = 'none';
+                }, 5000);
+            })
+            .catch(error => {
+                responseMessage.className = 'alert alert-danger';
+                responseMessage.textContent = 'Error al procesar la solicitud.';
+                responseMessage.style.display = 'block';
+
+                // Ocultar el mensaje después de 5 segundos
+                setTimeout(() => {
+                    responseMessage.style.display = 'none';
+                }, 5000);
+            });
+        });
+    });
+    </script>
 
     <!-- our location 
     <section class="pt-120 pb-120 top-shape">

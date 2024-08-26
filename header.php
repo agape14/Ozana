@@ -99,12 +99,7 @@
                                                         <li><a href="#">Detalle Productos</a></li>
                                                     </ul>-->
                                                 </li>
-                                                <li>
-                                                    <a href="#">Blog <img src="assets/img/line2.png" alt="Línea decorativa"></a>
-                                                    <ul>
-                                                        <li><a href="#">En desarrollo</a></li>
-                                                    </ul>
-                                                </li>
+                                                <li <?php if ($_SERVER['REQUEST_URI'] == "/blog.php") echo 'class="active"'; ?>><a href="blog.php">Blog <img src="assets/img/line2.png" alt="Línea decorativa"></a></li>
                                                 <li <?php if ($_SERVER['REQUEST_URI'] == "/contactanos.php") echo 'class="active"'; ?>><a href="contactanos.php">Contáctanos<img src="assets/img/line2.png" alt=""></a></li>
                                             </ul>
                                         </div>
