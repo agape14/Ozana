@@ -3,7 +3,7 @@
 include 'db_connection.php';
 
 // Consulta para obtener los contadores
-$sqlContadores = "SELECT * FROM Contadores";
+$sqlContadores = "SELECT * FROM contadores";
 $resultContadores = $conn->query($sqlContadores);
 
 ?>

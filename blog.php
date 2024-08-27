@@ -3,7 +3,7 @@
     include 'db_connection.php';
 
     // Consulta para obtener los blogs
-    $sqlBlogs = "SELECT * FROM Blog ORDER BY id DESC";
+    $sqlBlogs = "SELECT * FROM blog ORDER BY id DESC";
     $resultBlogs = $conn->query($sqlBlogs);
 ?>
 

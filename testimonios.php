@@ -3,7 +3,7 @@
 include 'db_connection.php';
 
 // Consulta para obtener los testimonios
-$sqlTestimonios = "SELECT * FROM Testimonios";
+$sqlTestimonios = "SELECT * FROM testimonios";
 $resultTestimonios = $conn->query($sqlTestimonios);
 
 ?>
